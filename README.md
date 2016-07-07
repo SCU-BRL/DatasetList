@@ -18,6 +18,13 @@ Only public avaliable dataset here.
 |:------:|:------:|:------:|
 
 ###Face
+####Face Detection
+|Dataset|AnnotationType|Pose|Scale|Owner|Remark|
+|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|[FDDB](http://vis-www.cs.umass.edu/fddb/index.html)|Ellipse|Large|Large|Yanfu Ren|Test benchmark|
+|[AFLW](http://lrs.icg.tugraz.at/research/aflw/)|Single|Large|Large|Yanfu Ren|Train&Test benchmark|
+|[WIDER](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)|Rectangle|very Large|very Large|Yanfu Ren|Train&Test benchmark|
+|[IJB-A](http://www.nist.gov/itl/iad/ig/facechallenges.cfm)|Rectangle|very Large|Medium|Yanfu Ren|Train&Test benchmark|
 
 ###Surveillance
 |Dataset|Link|Remark|
